@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CookBook &#8211; NewShop</title>
+	<atom:link href="https://hienkhanhdang.github.io/DACK/danh-muc-san-pham/cookbook/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hienkhanhdang.github.io/DACK</link>
+	<description>Just another Demo Trang site</description>
+	<lastBuildDate>Tue, 14 Jun 2022 03:40:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Cookbook</title>
+		<link>https://hienkhanhdang.github.io/DACK/san-pham/cookbook/</link>
+					<comments>https://hienkhanhdang.github.io/DACK/san-pham/cookbook/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2022 03:24:10 +0000</pubDate>
+				<guid isPermaLink="false">https://hienkhanhdang.github.io/DACK/?post_type=product&#038;p=267</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in isus ut facilisis rutrum ad sea.
+<div class="product_meta"><span class="sku_wrapper"><span class="qodef-woo-meta-label">SKU: 08</span></span></div>
+<div class="product_meta"><span class="posted_in"><span class="qodef-woo-meta-label">Category: CookBook</span></span></div>
+<div class="product_meta"><span class="tagged_as"><span class="qodef-woo-meta-label">Tags: Book, Recipe</span></span></div>
+<div>Share: <em>fb - tw - ln - p</em></div>]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in isus ut facilisis rutrum ad sea.
+<div class="product_meta"><span class="sku_wrapper"><span class="qodef-woo-meta-label">SKU: 08</span></span></div>
+<div class="product_meta"><span class="posted_in"><span class="qodef-woo-meta-label">Category: CookBook</span></span></div>
+<div class="product_meta"><span class="tagged_as"><span class="qodef-woo-meta-label">Tags: Book, Recipe</span></span></div>
+<div>Share: <em>fb - tw - ln - p</em></div>]]></content:encoded>
+					
+					<wfw:commentRss>https://hienkhanhdang.github.io/DACK/san-pham/cookbook/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Guacamole</title>
+		<link>https://hienkhanhdang.github.io/DACK/san-pham/guacamole/</link>
+					<comments>https://hienkhanhdang.github.io/DACK/san-pham/guacamole/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 13 Jun 2022 09:53:50 +0000</pubDate>
+				<guid isPermaLink="false">https://hienkhanhdang.github.io/DACK/?post_type=product&#038;p=262</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in isus ut facilisis rutrum ad sea.
+<div class="product_meta"><span class="sku_wrapper"><span class="qodef-woo-meta-label">SKU: 4</span></span></div>
+<div class="product_meta"><span class="posted_in"><span class="qodef-woo-meta-label">Category: CookBook</span></span></div>
+<div class="product_meta"><span class="tagged_as"><span class="qodef-woo-meta-label">Tags: Books, Recipe</span></span></div>
+<div>Share: <em>fb - tw - ln - p</em></div>]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in isus ut facilisis rutrum ad sea.
+<div class="product_meta"><span class="sku_wrapper"><span class="qodef-woo-meta-label">SKU: 4</span></span></div>
+<div class="product_meta"><span class="posted_in"><span class="qodef-woo-meta-label">Category: CookBook</span></span></div>
+<div class="product_meta"><span class="tagged_as"><span class="qodef-woo-meta-label">Tags: Books, Recipe</span></span></div>
+<div>Share: <em>fb - tw - ln - p</em></div>]]></content:encoded>
+					
+					<wfw:commentRss>https://hienkhanhdang.github.io/DACK/san-pham/guacamole/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Polenta</title>
+		<link>https://hienkhanhdang.github.io/DACK/san-pham/polenta/</link>
+					<comments>https://hienkhanhdang.github.io/DACK/san-pham/polenta/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 13 Jun 2022 09:51:15 +0000</pubDate>
+				<guid isPermaLink="false">https://hienkhanhdang.github.io/DACK/?post_type=product&#038;p=257</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in isus ut facilisis rutrum ad sea.
+<div class="product_meta"><span class="sku_wrapper"><span class="qodef-woo-meta-label">SKU: </span><span class="sku qodef-woo-meta-value">03</span></span></div>
+<div class="product_meta"><span class="posted_in"><span class="qodef-woo-meta-label">Category: CookBook</span></span></div>
+<div class="product_meta"><span class="tagged_as"><span class="qodef-woo-meta-label">Tags: Books, Recipe</span></span></div>
+<div>Share: <em>fb - tw - ln - p</em></div>]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in isus ut facilisis rutrum ad sea.
+<div class="product_meta"><span class="sku_wrapper"><span class="qodef-woo-meta-label">SKU: </span><span class="sku qodef-woo-meta-value">03</span></span></div>
+<div class="product_meta"><span class="posted_in"><span class="qodef-woo-meta-label">Category: CookBook</span></span></div>
+<div class="product_meta"><span class="tagged_as"><span class="qodef-woo-meta-label">Tags: Books, Recipe</span></span></div>
+<div>Share: <em>fb - tw - ln - p</em></div>]]></content:encoded>
+					
+					<wfw:commentRss>https://hienkhanhdang.github.io/DACK/san-pham/polenta/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Healthy Food</title>
+		<link>https://hienkhanhdang.github.io/DACK/san-pham/healthy-food/</link>
+					<comments>https://hienkhanhdang.github.io/DACK/san-pham/healthy-food/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 13 Jun 2022 09:44:47 +0000</pubDate>
+				<guid isPermaLink="false">https://hienkhanhdang.github.io/DACK/?post_type=product&#038;p=251</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in isus ut facilisis rutrum ad sea.
+<div class="product_meta"><span class="sku_wrapper"><span class="qodef-woo-meta-label">SKU: </span><span class="sku qodef-woo-meta-value">10</span></span></div>
+<div class="product_meta"><span class="posted_in"><span class="qodef-woo-meta-label">Category: Compote</span></span></div>
+<div class="product_meta"><span class="tagged_as"><span class="qodef-woo-meta-label">Tags: Homemade, Recipe</span></span></div>
+<div class="qodef-shortcode qodef-m qodef-social-share clear qodef-layout--text "><span class="qodef-social-title qodef-custom-label">Share:</span></div>]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in isus ut facilisis rutrum ad sea.
+<div class="product_meta"><span class="sku_wrapper"><span class="qodef-woo-meta-label">SKU: </span><span class="sku qodef-woo-meta-value">10</span></span></div>
+<div class="product_meta"><span class="posted_in"><span class="qodef-woo-meta-label">Category: Compote</span></span></div>
+<div class="product_meta"><span class="tagged_as"><span class="qodef-woo-meta-label">Tags: Homemade, Recipe</span></span></div>
+<div class="qodef-shortcode qodef-m qodef-social-share clear qodef-layout--text "><span class="qodef-social-title qodef-custom-label">Share:</span></div>]]></content:encoded>
+					
+					<wfw:commentRss>https://hienkhanhdang.github.io/DACK/san-pham/healthy-food/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bruschetti</title>
+		<link>https://hienkhanhdang.github.io/DACK/san-pham/bruschetti/</link>
+					<comments>https://hienkhanhdang.github.io/DACK/san-pham/bruschetti/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 13 Jun 2022 09:41:51 +0000</pubDate>
+				<guid isPermaLink="false">https://hienkhanhdang.github.io/DACK/?post_type=product&#038;p=246</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in isus ut facilisis rutrum ad sea.
+<div class="product_meta"><span class="sku_wrapper"><span class="qodef-woo-meta-label">SKU: 01</span></span></div>
+<div class="product_meta"><span class="posted_in"><span class="qodef-woo-meta-label">Category: CookBook</span></span></div>
+<div class="product_meta"><span class="tagged_as"><span class="qodef-woo-meta-label">Tags: Books, Recipe</span></span></div>
+<div class="qodef-shortcode qodef-m qodef-social-share clear qodef-layout--text "><span class="qodef-social-title qodef-custom-label">Share:</span></div>]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in isus ut facilisis rutrum ad sea.
+<div class="product_meta"><span class="sku_wrapper"><span class="qodef-woo-meta-label">SKU: 01</span></span></div>
+<div class="product_meta"><span class="posted_in"><span class="qodef-woo-meta-label">Category: CookBook</span></span></div>
+<div class="product_meta"><span class="tagged_as"><span class="qodef-woo-meta-label">Tags: Books, Recipe</span></span></div>
+<div class="qodef-shortcode qodef-m qodef-social-share clear qodef-layout--text "><span class="qodef-social-title qodef-custom-label">Share:</span></div>]]></content:encoded>
+					
+					<wfw:commentRss>https://hienkhanhdang.github.io/DACK/san-pham/bruschetti/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
