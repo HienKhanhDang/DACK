@@ -12,7 +12,7 @@
 	<atom:link href="https://hienkhanhdang.github.io/DACK/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hienkhanhdang.github.io/DACK</link>
 	<description>Just another Demo Trang site</description>
-	<lastBuildDate>Mon, 13 Jun 2022 06:21:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Jun 2022 02:00:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
-		<title>Hello world!</title>
+		<title>Crispy choco croissants</title>
 		<link>https://hienkhanhdang.github.io/DACK/2022/06/13/hello-world/</link>
 					<comments>https://hienkhanhdang.github.io/DACK/2022/06/13/hello-world/#comments</comments>
 		
@@ -30,8 +30,12 @@
 		<guid isPermaLink="false">https://hienkhanhdang.github.io/DACK/?p=1</guid>
 
 					<description><![CDATA[Chào mừng bạn đến với Demo Trang. Đây là bài viết đầu tiên của bạn. Bạn có thể sửa hoặc xoá nó, sau đó bắt đầu viết bài nào!]]></description>
-										<content:encoded><![CDATA[<p>Chào mừng bạn đến với <a href="http://localhost/wordpress/">Demo Trang</a>. Đây là bài viết đầu tiên của bạn. Bạn có thể sửa hoặc xoá nó, sau đó bắt đầu viết bài nào!</p>
-]]></content:encoded>
+										<content:encoded><![CDATA[
+Chào mừng bạn đến với <a href="http://localhost/wordpress/">Demo Trang</a>. Đây là bài viết đầu tiên của bạn. Bạn có thể sửa hoặc xoá nó, sau đó bắt đầu viết bài nào!
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img src="https://hienkhanhdang.github.io/DACK/wp-content/uploads/sites/3/2022/06/fot6-1.jpg" alt="" class="wp-image-673" width="612" height="612"/></figure></div>]]></content:encoded>
 					
 					<wfw:commentRss>https://hienkhanhdang.github.io/DACK/2022/06/13/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
@@ -39,7 +43,7 @@
 		
 			</item>
 		<item>
-		<title>Welcome to Flatsome</title>
+		<title>Celery soup with carrot, parsley and red pepper</title>
 		<link>https://hienkhanhdang.github.io/DACK/2015/11/19/welcome-to-flatsome/</link>
 					<comments>https://hienkhanhdang.github.io/DACK/2015/11/19/welcome-to-flatsome/#respond</comments>
 		
@@ -49,53 +53,17 @@
 		<guid isPermaLink="false">http://flatsome.dev/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging! Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam [...]]]></description>
-										<content:encoded><![CDATA[<p class="lead">Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-<blockquote><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p></blockquote>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-]]></content:encoded>
+										<content:encoded><![CDATA[
+<p class="lead">Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+<blockquote>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</blockquote>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" width="890" height="1009" src="https://hienkhanhdang.github.io/DACK/wp-content/uploads/sites/3/2022/06/about2.jpg" alt="" class="wp-image-676"/></figure></div>]]></content:encoded>
 					
 					<wfw:commentRss>https://hienkhanhdang.github.io/DACK/2015/11/19/welcome-to-flatsome/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Just another post with A Gallery</title>
-		<link>https://hienkhanhdang.github.io/DACK/2015/10/13/velkommen-til-bloggen-min/</link>
-					<comments>https://hienkhanhdang.github.io/DACK/2015/10/13/velkommen-til-bloggen-min/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2015 21:13:41 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://localhost:8888/flatsome-next/?p=5</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed vulputate massa. Fusce ante magna, iaculis ut purus ut, facilisis ultrices nibh. Quisque commodo nunc eget tortor dapibus, et tristique magna convallis. Phasellus egestas nunc eu venenatis vehicula. Phasellus et magna nulla. Proin ante nunc, mollis a lectus ac, volutpat placerat ante. Vestibulum sit amet [...]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed vulputate massa. Fusce ante magna, iaculis ut purus ut, facilisis ultrices nibh. Quisque commodo nunc eget tortor dapibus, et tristique magna convallis. Phasellus egestas nunc eu venenatis vehicula. Phasellus et magna nulla. Proin ante nunc, mollis a lectus ac, volutpat placerat ante. Vestibulum sit amet magna sit amet nunc faucibus mollis. Aliquam vel lacinia purus, id tristique ipsum. Quisque vitae nibh ut libero vulputate ornare quis in risus. Nam sodales justo orci, a bibendum risus tincidunt id. Etiam hendrerit, metus in volutpat tempus, neque libero viverra lorem, ac tristique orci augue eu metus. Aenean elementum nisi vitae justo adipiscing gravida sit amet et risus. Suspendisse dapibus elementum quam, vel semper mi tempus ac.</p>
-
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hienkhanhdang.github.io/DACK/2015/10/13/velkommen-til-bloggen-min/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>A Simple Blog Post</title>
-		<link>https://hienkhanhdang.github.io/DACK/2015/10/13/a-simple-blog-post/</link>
-					<comments>https://hienkhanhdang.github.io/DACK/2015/10/13/a-simple-blog-post/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2015 19:28:03 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://localhost:8888/flatsome-next/?p=1</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus Typi non habent claritatem insitam; est [...]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus</p>
-<p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hienkhanhdang.github.io/DACK/2015/10/13/a-simple-blog-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
